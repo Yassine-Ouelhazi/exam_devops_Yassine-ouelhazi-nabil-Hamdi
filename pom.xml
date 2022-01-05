@@ -113,7 +113,7 @@
                     <stopKey>stop-jetty-for-it</stopKey>
                     <stopWait>10</stopWait>
                     <httpConnector>
-                        <port>9999</port>
+                        <port>9988</port>
                         <idleTimeout>60000</idleTimeout>
                     </httpConnector>
                 </configuration>
